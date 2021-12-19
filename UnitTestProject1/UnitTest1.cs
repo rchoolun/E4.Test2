@@ -1,7 +1,6 @@
-﻿using E4.Test2;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace UnitTestProject1
+namespace E4.Test2.Test
 {
     [TestClass]
     public class UnitTest1
